@@ -533,3 +533,5 @@
 /joomla.xml
 /*.txt
 /robots.txt.dist
+Vagrantfile
+.idea
